@@ -1,9 +1,3 @@
-//  Louie Viray
-//  CSIS 24
-//  Final Project
-//  July 24, 2020
-//  Program that lets you play Tic Tac Toe!
-
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.Container;
